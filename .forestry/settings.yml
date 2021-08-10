@@ -31,8 +31,6 @@ sections:
   label: Pets
   create: documents
   match: "*.md"
-- type: heading
-  label: Jekyll
 - type: document
   path: _config.yml
   label: Config
